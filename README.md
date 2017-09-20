@@ -23,23 +23,23 @@ http://orton.catie.ac.cr/repdoc/A5519E/A5519E.PDF
 Instrucciones del programa
 
 Este programa comienza con la petición de datos como:
-*Nombre de la región.
-*Latitud y longitud de la región.
-*Altitud.
-*Y el intervalo de años que se tomó los datos de temperatura y precipitación (como 2000-2016).
+* Nombre de la región.
+* Latitud y longitud de la región.
+* Altitud.
+* Y el intervalo de años que se tomó los datos de temperatura y precipitación (como 2000-2016).
 Luego nos presenta un menú con 17 opciones las cuales serán explicados a continuación:
-*La opción 0 es para terminar el programa.
-*La opción 1 es para crear o resetear la tabla en donde se guardarán todos los datos que ingresemos y todo los resultados.
-*La opción 2 es para mostrar la tabla.
-*Las opciones 3, 4, 5, 6 y 7 se usa en caso se tenga datos mensuales.
-*La opción 3 es para ingresar los datos de temperatura media mensual.
-*La opción 4, 5 se utiliza en caso especiales que los datos de temperatura media mensual estén en el intervalo de 0 a 6 °C. Con estas dos opciones se introducen temperaturas máxima y mínima media mensual.
-*La opción 6 es para ingresar los datos de precipitación mensual.
-*La opción 7 es para procesar los datos mensuales y que luego esos resultados me sirvan para calcular la zona de vida de Holdridge.
-*Las opciones 8, 9, 10, 11 y 12 se usa en caso se tenga datos anuales
-*La opción 8 es para ingresar los datos de temperatura media anual.
-*La opción 9, 10 se utiliza en caso especiales que los datos de temperatura media anual están en el intervalo de 0 a 6 °C. Con estas dos opciones se introducen temperaturas máxima y mínima media mensual.
-*La opción 11 es para ingresar los datos de precipitación anual.
-*La opción 12 es para procesar los datos anuales y que luego esos resultados me sirvan para calcular la zona de vida de Holdridge.
-*Las opciones 13, 14, 15 y 16 se usan para poder hallar la zona de vida, provincia de humedad, piso altitudinal y región latitudinal. Estos deben ser utilizadas simultáneamente, es decir, se debe utilizar esas opciones juntas.
-*La opción 17 se usa para mostrar los datos característicos de la región.
+* La opción 0 es para terminar el programa.
+* La opción 1 es para crear o resetear la tabla en donde se guardarán todos los datos que ingresemos y todo los resultados.
+* La opción 2 es para mostrar la tabla.
+* Las opciones 3, 4, 5, 6 y 7 se usa en caso se tenga datos mensuales.
+* La opción 3 es para ingresar los datos de temperatura media mensual.
+* La opción 4, 5 se utiliza en caso especiales que los datos de temperatura media mensual estén en el intervalo de 0 a 6 °C. Con estas dos opciones se introducen temperaturas máxima y mínima media mensual.
+* La opción 6 es para ingresar los datos de precipitación mensual.
+* La opción 7 es para procesar los datos mensuales y que luego esos resultados me sirvan para calcular la zona de vida de Holdridge.
+* Las opciones 8, 9, 10, 11 y 12 se usa en caso se tenga datos anuales
+* La opción 8 es para ingresar los datos de temperatura media anual.
+* La opción 9, 10 se utiliza en caso especiales que los datos de temperatura media anual están en el intervalo de 0 a 6 °C. Con estas dos opciones se introducen temperaturas máxima y mínima media mensual.
+* La opción 11 es para ingresar los datos de precipitación anual.
+* La opción 12 es para procesar los datos anuales y que luego esos resultados me sirvan para calcular la zona de vida de Holdridge.
+* Las opciones 13, 14, 15 y 16 se usan para poder hallar la zona de vida, provincia de humedad, piso altitudinal y región latitudinal. Estos deben ser utilizadas simultáneamente, es decir, se debe utilizar esas opciones juntas.
+* La opción 17 se usa para mostrar los datos característicos de la región.
